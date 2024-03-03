@@ -1,2 +1,2 @@
-# Text-Summarization 
+# Text-Summarization with PEGASUS
 
